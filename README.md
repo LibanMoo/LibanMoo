@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Other Developers
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I wrote my first line of code in assembly!, I tryna Debug till yet
+- ⚡ Fun fact: I wrote my first line of code in assembly!, Tryna Debug till yet
 
 <!---
 LibanMoo/LibanMoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
