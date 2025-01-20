@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intillegence
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on Other Developers
-- 📫 How to reach me ...
+- 📫 How to reach me libanmohamedreal@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I wrote my first line of code in assembly!, Tryna Debug till yet
 
